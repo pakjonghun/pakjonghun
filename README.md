@@ -5,11 +5,14 @@
 - 주로 사용하는 기술 : react, redux, tailwind
 - 제 블로그 [blog](http://fireking5997.xyz) 와 연락처 010-3905-0101 입니다.
   <br><br>
-  <img src="https://img.shields.io/badge/-html-gray"/>
-  <img src="https://img.shields.io/badge/-css-yellowgreen"/>
-  <img src="https://img.shields.io/badge/-javascript-yellow"/>
-  <img src="https://img.shields.io/badge/-typescript-blue"/>
-  <img src="https://img.shields.io/badge/-react-red"/>
+
+![HTML](https://img.shields.io/badge/HTML-red.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+<img alt="css" src ="https://img.shields.io/badge/CSS-blue.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
+<img alt="javascript" src ="https://img.shields.io/badge/JavaScript-yellow.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
+<img alt="typescript" src ="https://img.shields.io/badge/TypeScript-blue.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
+<img alt="react" src ="https://img.shields.io/badge/React-black.svg?&style=for-the-badge&logo=React&logoColor=#61DAFB"/>
+
+
   
 
     
