@@ -3,7 +3,7 @@
 - 최근 관심 분야 : webpack, testcode, recoil
 - 지금 진행중인 프로젝트 : search-movie 프로젝트
 - 주로 사용하는 기술 : react, redux, recoil, tailwind
-- 제 블로그 [blog](http://fireking5997.xyz) 와 연락처 010-3905-0101 입니다.
+- 블로그 [blog](http://fireking5997.xyz) 와 연락처 010-3905-0101 입니다.
   <br><br>
 
 ![HTML](https://img.shields.io/badge/HTML-red.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
