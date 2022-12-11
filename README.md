@@ -1,6 +1,6 @@
 ### 방갑습니다. 👋
 끊임없이 고민하는 개발자 박정훈 입니다
-- 최근 관심 분야 : webpack, testcode, recoil
+- 최근 관심 분야 : webpack, testcode, recoil, refactory
 - 지금 진행중인 프로젝트 : 없음, 개인학습중
 - 주로 사용하는 기술 : react, redux, recoil, tailwind
 - 블로그 [blog](http://fireking5997.me) 와 연락처 010-3905-0101 입니다.
